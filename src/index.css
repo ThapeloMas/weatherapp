@@ -4,7 +4,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(145deg, rgb(195, 240, 200), rgb(80, 155, 245));
+   padding: auto;
 
+  max-width: 1080px;
+  margin: 20px auto;
 }
 
 code {
