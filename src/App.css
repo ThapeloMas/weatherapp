@@ -2,7 +2,6 @@
   max-width: 1080px;
   margin:  20px auto;
 }
-
 .btn {
   background: linear-gradient(to right, rgb(80, 155, 245), rgb(195, 240, 200));
   transform: all 0.3s ease;
